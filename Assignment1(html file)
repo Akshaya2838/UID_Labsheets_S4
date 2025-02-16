@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Application Letter</title>
+    
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 20px;
+            padding: 20px;
+        }
+        h1 {
+            color: navy;
+            text-align: center;
+        }
+        .container {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px gray;
+            width: 60%;
+            margin: auto;
+        }
+        .highlight {
+            color: darkred;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Application for <u>Job/Higher Studies</u></h1>
+
+    <p><b>From:</b><br>
+        <i>G.Akshaya Giri</i><br>
+        Amrita viswa Vidya Peetam, <mark>Amrithapuri</mark>, kerala<br>
+        <small>Email:</small>akshayagiri@gmail.com<br>
+        <small>Phone:</small>9966472838
+    </p>
+
+    <p><b>To:</b><br>
+        <i>Hiring Manager</i><br>
+        XYZ Company <br>
+        Banglore
+    </p>
+
+    <p><b>Subject:</b> <span class="highlight">Application for Employment</span></p>
+
+    <p>Dear <b>Sir</b>,</p>
+
+    <p>I am writing to express my interest in the <u>Software Developer</u> position at XYZ Company. I hold a <mark>Bachelor’s Degree</mark> in Computer Science and have experience in software development.</p>
+
+    <p>My skills include:</p>
+    <ul>
+        <li><b>Programming Languages:</b> Python, JavaScript, HTML, CSS</li>
+        <li><b>Frameworks:</b> React, Django</li>
+        <li><b>Database Management:</b> SQL, MongoDB</li>
+    </ul>
+
+    <p>I believe my technical skills and dedication make me a strong candidate. I would be grateful for the opportunity to discuss my application further.</p>
+
+    <p>Thank you for your time and consideration.</p>
+
+    <p>Sincerely,</p>
+    <p><b>G.Akshaya Giri</b></p>
+</div>
+
+</body>
+</html>
